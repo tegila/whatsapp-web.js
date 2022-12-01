@@ -37,7 +37,7 @@
     "sharp": "^0.26.3"
   },
   "devDependencies": {
-    "eslint": "^7.27.0",
+    "eslint": "^8.28.0",
     "jsdoc": "^3.6.4",
     "jsdoc-baseline": "^0.1.5"
   }
